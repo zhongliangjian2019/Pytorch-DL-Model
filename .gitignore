@@ -1,8 +1,4 @@
 *.pyc
-Data/
 __pycache__/
-checkpoints/
-*.pth
-*.jpg
 venv/
 .idea/
