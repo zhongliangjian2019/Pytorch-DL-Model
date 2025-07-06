@@ -21,3 +21,6 @@
 - Step-2: 采用 “src/dataset_split.py” 进行数据集划分, 用于训练与验证.
 - Step-3: 采用 “src/model_train.py" 进行模型训练.
 - Step-4: 采用 “src/model_test.py" 进行模型推理测试.
+#### 3.分割模型训练效果示例
+下图为采用 "data"目录下数据训练的车道边线分割模型示例.
+![img_1.png](doc/img_1.png)
