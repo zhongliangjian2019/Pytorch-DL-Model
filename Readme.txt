@@ -1,4 +1,3 @@
-Putorch Deeplearning Model
+Pytorch-DL-Model仓库简介
 主要内容：
-1. DataSets: 包含目标检测、语义分割、实例分割等视觉任务的数据加载类
-2. Networks: 包含图像方面主要的网络模型
+1. segment: 包含分割模型训练相关脚本
